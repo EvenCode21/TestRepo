@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Primer Proyecto Git\bin\Debug\net8.0\Primer Proyecto Git.exe
+C:\Users\pc\Desktop\Primer Proyecto Git\bin\Debug\net8.0\Primer Proyecto Git.deps.json
+C:\Users\pc\Desktop\Primer Proyecto Git\bin\Debug\net8.0\Primer Proyecto Git.runtimeconfig.json
+C:\Users\pc\Desktop\Primer Proyecto Git\bin\Debug\net8.0\Primer Proyecto Git.dll
+C:\Users\pc\Desktop\Primer Proyecto Git\bin\Debug\net8.0\Primer Proyecto Git.pdb
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.AssemblyInfo.cs
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.dll
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\refint\Primer Proyecto Git.dll
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.pdb
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\Primer Proyecto Git.genruntimeconfig.cache
+C:\Users\pc\Desktop\Primer Proyecto Git\obj\Debug\net8.0\ref\Primer Proyecto Git.dll
